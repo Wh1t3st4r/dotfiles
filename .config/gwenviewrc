@@ -1,0 +1,14 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/arch-minimal-wallpapers/wallpapers/full-hd/ayu-dark.png
+Name1[$e]=ayu-dark.png
+
+[SideBar]
+InformationSplitterSizes=0,0
+SideBarSplitterSizes=183,546

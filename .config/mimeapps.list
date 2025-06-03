@@ -1,0 +1,7 @@
+[Default Applications]
+image/png=qimgv.desktop
+inode/directory=nemo.desktop
+application/x-gnome-saved-search=nemo.desktop
+
+[Added Associations]
+image/png=qimgv.desktop;
